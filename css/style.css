@@ -1,21 +1,27 @@
+
 body {
-  color: pink;
+  color: rgb(255, 42, 77);
+  font-size: 30px;
+  background-color: rgb(253, 222, 127);
 }
 
 h1 {
   color: purple;
+  font-family: 'Zeyada', cursive;
+  text-align: center;
 }
 
 .quote {
-  color: blue;
+  color: rgb(64, 64, 228);
+  font-family: 'Zeyada', cursive;
 }
 
 .quote.narrator {
-  color: orange;
+  color: rgb(126, 6, 247);
 }
 
 #intro p {
-  color: yellowgreen;
+  color: rgb(188, 234, 95);
 }
 
 .super-important-omg {
