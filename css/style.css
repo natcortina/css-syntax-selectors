@@ -3,17 +3,22 @@ body {
   color: rgb(255, 42, 77);
   font-size: 30px;
   background-color: rgb(253, 222, 127);
+  border-radius: 20px;
+  border-style: groove;
+  padding: 10px;
 }
 
 h1 {
   color: purple;
   font-family: 'Zeyada', cursive;
   text-align: center;
+  padding: 10px;
 }
 
 .quote {
   color: rgb(64, 64, 228);
   font-family: 'Zeyada', cursive;
+  font-weight: bold;
 }
 
 .quote.narrator {
@@ -21,7 +26,7 @@ h1 {
 }
 
 #intro p {
-  color: rgb(188, 234, 95);
+  color: rgb(185, 79, 255);
 }
 
 .super-important-omg {
